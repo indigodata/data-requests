@@ -1,7 +1,7 @@
 name: Indigo Data Request
-description: Request features for indigo data models
-title: ''
-labels: [Feature, Needs Triage]
+description: Request features, data, metrics for indigo data models
+title: "Data Request: "
+labels: [Needs Triage]
 body:
 - type: markdown
   attributes:
