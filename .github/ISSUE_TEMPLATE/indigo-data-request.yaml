@@ -37,8 +37,8 @@ body:
 - type: textarea
   attributes:
     label: How will you use this data/feature?
-    description: Technical and operational use for the feature. |
-      Example -> We will query the metric for each of our active customers every 5 minutes using snowflake sdk and send a notification to their browser. This will increase customer time on our site and help upsell premium service X.
+    description: Technical and operational use for the feature.
+    placeholder: Example -> We will query the metric for each of our active customers every 5 minutes using snowflake sdk and send a notification to their browser. This will increase customer time on our site and help upsell premium service X.
   validations:
     required: false
 - type: textarea
